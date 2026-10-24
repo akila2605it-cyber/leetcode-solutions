@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |

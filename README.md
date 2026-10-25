@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

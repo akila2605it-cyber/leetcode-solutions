@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1332-remove-palindromic-subsequences](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |

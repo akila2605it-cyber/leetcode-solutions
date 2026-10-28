@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |

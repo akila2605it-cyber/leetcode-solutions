@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |

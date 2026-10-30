@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 ## Linked List
 |  |
 | ------- |

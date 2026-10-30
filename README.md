@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
 | ------- |

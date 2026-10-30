@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## String
 |  |
 | ------- |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->

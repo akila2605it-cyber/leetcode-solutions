@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

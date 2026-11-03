@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
 |  |
 | ------- |

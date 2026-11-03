@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
 | ------- |

@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0197-rising-temperature) |
 ## Simulation
 |  |

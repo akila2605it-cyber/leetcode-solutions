@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |

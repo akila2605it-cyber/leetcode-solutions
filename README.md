@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1029-two-city-scheduling](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/1029-two-city-scheduling) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

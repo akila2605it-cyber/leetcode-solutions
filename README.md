@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0097-interleaving-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->

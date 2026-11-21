@@ -269,4 +269,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

@@ -1,0 +1,21 @@
+class Solution {
+    public int superPow(int a, int[] b) {
+    int result = 1;
+    for (int digit : b) {
+    result = (pow(result, 10) * pow(a, digit)) % 1337;
+        }
+    return result;
+    }
+    public int pow(int a, int b) {
+    int res = 1;
+    a = a % 1337;
+    while (b > 0) {
+    if (b % 2 == 1) {
+    res = (res * a) % 1337;
+            }
+    a = (a * a) % 1337;
+    b = b / 2;
+        }
+    return res;
+    }
+}

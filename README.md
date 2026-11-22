@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |

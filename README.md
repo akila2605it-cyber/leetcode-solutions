@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |

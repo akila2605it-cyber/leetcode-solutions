@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

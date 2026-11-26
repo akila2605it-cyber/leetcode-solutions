@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0097-interleaving-string) |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |

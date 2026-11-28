@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0089-gray-code) |
 | [0832-flipping-an-image](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0089-gray-code) |
 ## Union-Find
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0372-super-pow](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |

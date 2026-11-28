@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/akila2605it-cyber/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
